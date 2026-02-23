@@ -1,0 +1,577 @@
+{
+    "title": "Perjalanan Hidup Tan Malaka (1897–1949)",
+    "subtitle": "Dari Penjara ke Penjara",
+    "events": [
+        {
+            "date": "1897-06-02",
+            "age": 0,
+            "category": "birth",
+            "title": "Lahir di Nagari Pandam Gadang",
+            "description": "Ibrahim gelar Datuk Sutan Malaka lahir di Nagari Pandam Gadang, Suliki, Lima Puluh Kota, Sumatera Barat. Ibunya berasal dari keluarga dengan gelar adat Minangkabau.",
+            "location": "Pandam Gadang, Sumatera Barat",
+            "coordinates": {
+                "lat": -0.1,
+                "lng": 100.65
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1908",
+            "age": 11,
+            "category": "education",
+            "title": "Masuk Kweekschool di Fort de Kock",
+            "description": "Diterima di sekolah guru pemerintah (Kweekschool) di Fort de Kock (sekarang Bukittinggi). Di sinilah ia belajar bahasa Belanda dan mulai mengenal dunia pendidikan modern.",
+            "location": "Bukittinggi, Sumatera Barat",
+            "coordinates": {
+                "lat": -0.307,
+                "lng": 100.369
+            },
+            "fromCoordinates": {
+                "lat": -0.1,
+                "lng": 100.65
+            }
+        },
+        {
+            "date": "1913",
+            "age": 16,
+            "category": "education",
+            "title": "Berangkat ke Belanda",
+            "description": "Menerima gelar adat Datuk dan berlayar ke Rotterdam, Belanda, untuk melanjutkan pendidikan di Rijkskweekschool. Perjalanan laut pertama mengarungi Samudra Hindia dan Laut Mediterania.",
+            "location": "Rotterdam, Belanda",
+            "coordinates": {
+                "lat": 51.9225,
+                "lng": 4.4792
+            },
+            "fromCoordinates": {
+                "lat": -0.307,
+                "lng": 100.369
+            }
+        },
+        {
+            "date": "1914",
+            "age": 17,
+            "category": "education",
+            "title": "Belajar di Rijkskweekschool",
+            "description": "Menjalani pendidikan di sekolah guru di Haarlem. Di Belanda ia mulai berkenalan dengan ide-ide sosialisme dan gerakan buruh Eropa. Menyaksikan dampak Perang Dunia I.",
+            "location": "Haarlem, Belanda",
+            "coordinates": {
+                "lat": 52.3813,
+                "lng": 4.6364
+            },
+            "fromCoordinates": {
+                "lat": 51.9225,
+                "lng": 4.4792
+            }
+        },
+        {
+            "date": "1919-05",
+            "age": 22,
+            "category": "activism",
+            "title": "Kembali ke Hindia Belanda",
+            "description": "Pulang ke tanah air setelah menyelesaikan pendidikan. Membawa semangat dan ide-ide revolusioner dari Eropa.",
+            "location": "Pelabuhan Tanjung Priok, Batavia",
+            "coordinates": {
+                "lat": -6.1,
+                "lng": 106.88
+            },
+            "fromCoordinates": {
+                "lat": 51.9225,
+                "lng": 4.4792
+            }
+        },
+        {
+            "date": "1919-08",
+            "age": 22,
+            "category": "activism",
+            "title": "Guru di Perkebunan Senembah",
+            "description": "Mengajar di sekolah untuk anak-anak kuli perkebunan tembakau Senembah, Deli, Sumatera Utara. Menyaksikan langsung penderitaan kaum buruh di bawah sistem kolonial.",
+            "location": "Tanjung Morawa, Sumatera Utara",
+            "coordinates": {
+                "lat": 3.53,
+                "lng": 98.78
+            },
+            "fromCoordinates": {
+                "lat": -6.1,
+                "lng": 106.88
+            }
+        },
+        {
+            "date": "1920",
+            "age": 23,
+            "category": "activism",
+            "title": "Mendirikan Sekolah Rakyat di Semarang",
+            "description": "Pindah ke Semarang dan mendirikan sekolah rakyat Sarekat Islam. Menulis artikel \"Tanah Air yang Miskin\" di Het Vrije Woord, mengecam eksploitasi kolonial.",
+            "location": "Semarang, Jawa Tengah",
+            "coordinates": {
+                "lat": -6.9667,
+                "lng": 110.4196
+            },
+            "fromCoordinates": {
+                "lat": 3.53,
+                "lng": 98.78
+            }
+        },
+        {
+            "date": "1921-05",
+            "age": 24,
+            "category": "activism",
+            "title": "Kongres SI ke-5 di Yogyakarta",
+            "description": "Hadir di Kongres Sarekat Islam ke-5 di Yogyakarta. Bergabung dengan PKI (Partai Komunis Indonesia) dan mulai aktif dalam gerakan komunis Hindia Belanda.",
+            "location": "Yogyakarta, Jawa Tengah",
+            "coordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            },
+            "fromCoordinates": {
+                "lat": -6.9667,
+                "lng": 110.4196
+            }
+        },
+        {
+            "date": "1921-10",
+            "age": 24,
+            "category": "activism",
+            "title": "Ketua PKI",
+            "description": "Setelah Semaun meninggalkan Hindia Belanda, Tan Malaka diangkat menjadi Ketua PKI. Memimpin partai dengan pendekatan yang lebih radikal terhadap perjuangan kemerdekaan.",
+            "location": "Semarang, Jawa Tengah",
+            "coordinates": {
+                "lat": -6.9667,
+                "lng": 110.4196
+            },
+            "fromCoordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            }
+        },
+        {
+            "date": "1922-03",
+            "age": 24,
+            "category": "exile",
+            "title": "Dibuang dari Hindia Belanda",
+            "description": "Setelah mogok pegawai gadai gagal menjadi mogok umum, pemerintah Belanda memutuskan membuang Tan Malaka. Ia diperintahkan meninggalkan Hindia Belanda dan tidak boleh kembali.",
+            "location": "Pelabuhan Tanjung Priok, Batavia",
+            "coordinates": {
+                "lat": -6.1,
+                "lng": 106.88
+            },
+            "fromCoordinates": {
+                "lat": -6.9667,
+                "lng": 110.4196
+            }
+        },
+        {
+            "date": "1922-06",
+            "age": 25,
+            "category": "international",
+            "title": "Kongres Komintern IV di Moskow",
+            "description": "Mewakili Indonesia di Kongres ke-4 Komunis Internasional (Komintern) di Moskow. Bertemu Lenin dan tokoh-tokoh revolusioner dunia. Diangkat sebagai agen Komintern untuk Asia Tenggara.",
+            "location": "Moskow, Rusia",
+            "coordinates": {
+                "lat": 55.7558,
+                "lng": 37.6173
+            },
+            "fromCoordinates": {
+                "lat": -6.1,
+                "lng": 106.88
+            }
+        },
+        {
+            "date": "1922-12",
+            "age": 25,
+            "category": "international",
+            "title": "Singgah di Berlin",
+            "description": "Berdiam di Berlin selama beberapa waktu, mengikuti perkembangan gerakan buruh Jerman pasca Perang Dunia I dan krisis ekonomi Republik Weimar.",
+            "location": "Berlin, Jerman",
+            "coordinates": {
+                "lat": 52.52,
+                "lng": 13.405
+            },
+            "fromCoordinates": {
+                "lat": 55.7558,
+                "lng": 37.6173
+            }
+        },
+        {
+            "date": "1923-04",
+            "age": 25,
+            "category": "international",
+            "title": "Kembali ke Belanda",
+            "description": "Singgah kembali di Belanda, berhubungan dengan jaringan komunis Eropa dan komunitas diaspora Indonesia di sana.",
+            "location": "Den Haag, Belanda",
+            "coordinates": {
+                "lat": 52.0705,
+                "lng": 4.3007
+            },
+            "fromCoordinates": {
+                "lat": 52.52,
+                "lng": 13.405
+            }
+        },
+        {
+            "date": "1923-10",
+            "age": 26,
+            "category": "international",
+            "title": "Tiba di Canton (Guangzhou)",
+            "description": "Pindah ke Canton (Guangzhou), Tiongkok, pusat revolusi Sun Yat-sen. Menjadi editor jurnal berbahasa Inggris \"The Dawn\" dan aktif dalam gerakan revolusioner Asia.",
+            "location": "Guangzhou, Tiongkok",
+            "coordinates": {
+                "lat": 23.1291,
+                "lng": 113.2644
+            },
+            "fromCoordinates": {
+                "lat": 52.0705,
+                "lng": 4.3007
+            }
+        },
+        {
+            "date": "1925",
+            "age": 28,
+            "category": "international",
+            "title": "Menulis 'Naar de Republiek Indonesia'",
+            "description": "Di Canton, menulis dan menerbitkan 'Naar de Republiek Indonesia' (Menuju Republik Indonesia), memaparkan konsep negara Indonesia merdeka jauh sebelum proklamasi 1945.",
+            "location": "Guangzhou, Tiongkok",
+            "coordinates": {
+                "lat": 23.1291,
+                "lng": 113.2644
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1925-11",
+            "age": 28,
+            "category": "exile",
+            "title": "Pindah ke Manila",
+            "description": "Meninggalkan Tiongkok dan pindah ke Manila, Filipina, mencari lingkungan yang lebih mirip Indonesia. Menentang rencana pemberontakan PKI 1926 yang dinilainya prematur.",
+            "location": "Manila, Filipina",
+            "coordinates": {
+                "lat": 14.5995,
+                "lng": 120.9842
+            },
+            "fromCoordinates": {
+                "lat": 23.1291,
+                "lng": 113.2644
+            }
+        },
+        {
+            "date": "1927",
+            "age": 30,
+            "category": "activism",
+            "title": "Mendirikan PARI di Bangkok",
+            "description": "Mendirikan Partai Republik Indonesia (PARI) di Bangkok, Thailand. Menjauhkan diri dari Komintern dan PKI, fokus pada pengembangan kader bawah tanah untuk kemerdekaan Indonesia.",
+            "location": "Bangkok, Thailand",
+            "coordinates": {
+                "lat": 13.7563,
+                "lng": 100.5018
+            },
+            "fromCoordinates": {
+                "lat": 14.5995,
+                "lng": 120.9842
+            }
+        },
+        {
+            "date": "1927-08",
+            "age": 30,
+            "category": "imprisonment",
+            "title": "Ditangkap di Manila",
+            "description": "Ditangkap oleh otoritas Amerika di Manila atas permintaan pemerintah kolonial Belanda. Dipenjara selama beberapa bulan sebelum dibebaskan.",
+            "location": "Manila, Filipina",
+            "coordinates": {
+                "lat": 14.5995,
+                "lng": 120.9842
+            },
+            "fromCoordinates": {
+                "lat": 13.7563,
+                "lng": 100.5018
+            }
+        },
+        {
+            "date": "1928",
+            "age": 31,
+            "category": "exile",
+            "title": "Dibebaskan, Mengembara di Asia",
+            "description": "Setelah bebas dari penjara Manila, kembali mengembara. Berpindah-pindah antara Singapura dan daratan Asia Tenggara dengan identitas samaran.",
+            "location": "Singapura",
+            "coordinates": {
+                "lat": 1.3521,
+                "lng": 103.8198
+            },
+            "fromCoordinates": {
+                "lat": 14.5995,
+                "lng": 120.9842
+            }
+        },
+        {
+            "date": "1929",
+            "age": 32,
+            "category": "international",
+            "title": "Di Shanghai dan Hong Kong",
+            "description": "Tinggal di Shanghai dan Hong Kong, berhubungan dengan jaringan komunis internasional dan mengamati perkembangan revolusi Tiongkok.",
+            "location": "Shanghai, Tiongkok",
+            "coordinates": {
+                "lat": 31.2304,
+                "lng": 121.4737
+            },
+            "fromCoordinates": {
+                "lat": 1.3521,
+                "lng": 103.8198
+            }
+        },
+        {
+            "date": "1930",
+            "age": 33,
+            "category": "exile",
+            "title": "Hong Kong — Hidup dalam Persembunyian",
+            "description": "Tinggal di Hong Kong dengan berbagai nama samaran. Menghindari penangkapan oleh agen-agen kolonial Belanda dan Inggris.",
+            "location": "Hong Kong",
+            "coordinates": {
+                "lat": 22.3193,
+                "lng": 114.1694
+            },
+            "fromCoordinates": {
+                "lat": 31.2304,
+                "lng": 121.4737
+            }
+        },
+        {
+            "date": "1932",
+            "age": 35,
+            "category": "imprisonment",
+            "title": "Ditangkap di Hong Kong",
+            "description": "Ditangkap oleh polisi Inggris di Hong Kong. Ditahan dan kemudian dideportasi. Pengalaman penjara ini menjadi salah satu bagian dari autobiografinya.",
+            "location": "Hong Kong",
+            "coordinates": {
+                "lat": 22.3193,
+                "lng": 114.1694
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1932-06",
+            "age": 35,
+            "category": "exile",
+            "title": "Dideportasi ke Amoy (Xiamen)",
+            "description": "Setelah dibebaskan dari Hong Kong, dideportasi ke Amoy (Xiamen), Tiongkok. Melanjutkan hidup sebagai buronan politik.",
+            "location": "Xiamen, Tiongkok",
+            "coordinates": {
+                "lat": 24.4798,
+                "lng": 118.0894
+            },
+            "fromCoordinates": {
+                "lat": 22.3193,
+                "lng": 114.1694
+            }
+        },
+        {
+            "date": "1934",
+            "age": 37,
+            "category": "international",
+            "title": "Kembali ke Shanghai",
+            "description": "Kembali ke Shanghai, kota kosmopolitan dengan gerakan bawah tanah yang aktif. Menulis dan tetap mengikuti perkembangan perjuangan kemerdekaan Indonesia.",
+            "location": "Shanghai, Tiongkok",
+            "coordinates": {
+                "lat": 31.2304,
+                "lng": 121.4737
+            },
+            "fromCoordinates": {
+                "lat": 24.4798,
+                "lng": 118.0894
+            }
+        },
+        {
+            "date": "1937",
+            "age": 40,
+            "category": "exile",
+            "title": "Melarikan Diri ke Rangoon (Yangon)",
+            "description": "Dengan pecahnya Perang Tiongkok-Jepang Kedua, Tan Malaka melarikan diri dari Tiongkok ke Rangoon (Yangon), Burma. Bersembunyi selama masa Perang Dunia II.",
+            "location": "Yangon, Myanmar",
+            "coordinates": {
+                "lat": 16.8661,
+                "lng": 96.1951
+            },
+            "fromCoordinates": {
+                "lat": 31.2304,
+                "lng": 121.4737
+            }
+        },
+        {
+            "date": "1942",
+            "age": 45,
+            "category": "exile",
+            "title": "Menyusup ke Singapura yang Diduduki Jepang",
+            "description": "Dengan jatuhnya Asia Tenggara ke tangan Jepang, Tan Malaka mulai mencari jalan pulang ke Indonesia melalui Singapura yang diduduki.",
+            "location": "Singapura",
+            "coordinates": {
+                "lat": 1.3521,
+                "lng": 103.8198
+            },
+            "fromCoordinates": {
+                "lat": 16.8661,
+                "lng": 96.1951
+            }
+        },
+        {
+            "date": "1942-06",
+            "age": 45,
+            "category": "revolution",
+            "title": "Kembali ke Jawa Setelah 20 Tahun",
+            "description": "Akhirnya kembali ke tanah Jawa setelah 20 tahun pengasingan, di bawah pendudukan Jepang. Menggunakan nama samaran Ilyas Husein. Bekerja di pertambangan di Bayah, Banten.",
+            "location": "Bayah, Banten",
+            "coordinates": {
+                "lat": -6.93,
+                "lng": 106.25
+            },
+            "fromCoordinates": {
+                "lat": 1.3521,
+                "lng": 103.8198
+            }
+        },
+        {
+            "date": "1944",
+            "age": 47,
+            "category": "revolution",
+            "title": "Pindah ke Jakarta",
+            "description": "Pindah ke Jakarta (Batavia) dan mulai membangun kontak dengan tokoh-tokoh pergerakan kemerdekaan Indonesia, termasuk Sukarno dan Hatta, meskipun secara diam-diam.",
+            "location": "Jakarta",
+            "coordinates": {
+                "lat": -6.2088,
+                "lng": 106.8456
+            },
+            "fromCoordinates": {
+                "lat": -6.93,
+                "lng": 106.25
+            }
+        },
+        {
+            "date": "1945-08-17",
+            "age": 48,
+            "category": "revolution",
+            "title": "Proklamasi Kemerdekaan Indonesia",
+            "description": "Indonesia merdeka. Meskipun bukan penandatangan proklamasi, Tan Malaka segera aktif dalam politik pasca-kemerdekaan dan berusaha mempengaruhi arah revolusi.",
+            "location": "Jakarta",
+            "coordinates": {
+                "lat": -6.2088,
+                "lng": 106.8456
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1945-11",
+            "age": 48,
+            "category": "revolution",
+            "title": "Mendirikan Persatuan Perjuangan",
+            "description": "Membentuk Persatuan Perjuangan, front koalisi yang menyatukan 141 organisasi politik dan militer. Menentang diplomasi dengan Belanda dan menuntut kemerdekaan 100%.",
+            "location": "Purwokerto, Jawa Tengah",
+            "coordinates": {
+                "lat": -7.4214,
+                "lng": 109.2342
+            },
+            "fromCoordinates": {
+                "lat": -6.2088,
+                "lng": 106.8456
+            }
+        },
+        {
+            "date": "1946-01",
+            "age": 48,
+            "category": "revolution",
+            "title": "Persatuan Perjuangan di Solo",
+            "description": "Memimpin kongres Persatuan Perjuangan di Surakarta (Solo). Program minimum yang radikal diterima oleh peserta kongres.",
+            "location": "Surakarta (Solo), Jawa Tengah",
+            "coordinates": {
+                "lat": -7.5755,
+                "lng": 110.8243
+            },
+            "fromCoordinates": {
+                "lat": -7.4214,
+                "lng": 109.2342
+            }
+        },
+        {
+            "date": "1946-03",
+            "age": 48,
+            "category": "revolution",
+            "title": "Peristiwa 3 Juli — Diculik",
+            "description": "Gerakan Persatuan Perjuangan dianggap mengancam pemerintah Sjahrir. Tan Malaka dan pengikutnya dituduh merencanakan kudeta.",
+            "location": "Yogyakarta",
+            "coordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            },
+            "fromCoordinates": {
+                "lat": -7.5755,
+                "lng": 110.8243
+            }
+        },
+        {
+            "date": "1946-07-06",
+            "age": 49,
+            "category": "imprisonment",
+            "title": "Ditangkap dan Dipenjara",
+            "description": "Ditangkap pada 6 Juli 1946 atas tuduhan percobaan kudeta. Ditahan tanpa pengadilan selama lebih dari dua tahun di berbagai penjara Jawa.",
+            "location": "Yogyakarta",
+            "coordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1948-09",
+            "age": 51,
+            "category": "revolution",
+            "title": "Dibebaskan — Mendirikan Partai Murba",
+            "description": "Setelah lebih dari dua tahun dipenjara, akhirnya dibebaskan. Segera mendirikan Partai Murba (Partai Proletar) di Yogyakarta dengan prinsip anti-fasisme, anti-imperialisme, dan anti-kapitalisme.",
+            "location": "Yogyakarta",
+            "coordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1948-12",
+            "age": 51,
+            "category": "revolution",
+            "title": "Proklamasi dari Kediri",
+            "description": "Dalam situasi darurat Agresi Militer Belanda II, Tan Malaka memproklamirkan diri sebagai pemimpin perjuangan dari Kediri, Jawa Timur. Bergerak dengan pasukan gerilya.",
+            "location": "Kediri, Jawa Timur",
+            "coordinates": {
+                "lat": -7.8164,
+                "lng": 112.0174
+            },
+            "fromCoordinates": {
+                "lat": -7.7972,
+                "lng": 110.3688
+            }
+        },
+        {
+            "date": "1949-02",
+            "age": 51,
+            "category": "imprisonment",
+            "title": "Ditangkap di Kediri",
+            "description": "Ditangkap bersama pengikut-pengikutnya oleh pasukan Batalyon Sikatan, Divisi Brawijaya, di wilayah Kediri, Jawa Timur.",
+            "location": "Kediri, Jawa Timur",
+            "coordinates": {
+                "lat": -7.8164,
+                "lng": 112.0174
+            },
+            "fromCoordinates": null
+        },
+        {
+            "date": "1949-02-21",
+            "age": 51,
+            "category": "death",
+            "title": "Eksekusi di Lereng Gunung Wilis",
+            "description": "Tan Malaka dieksekusi mati tanpa pengadilan dengan ditembak di lereng Gunung Wilis, Selopanggung, Kabupaten Kediri, oleh pasukan Batalyon Sikatan, Divisi Brawijaya. Jasadnya dimakamkan di tempat yang tidak diketahui.",
+            "location": "Selopanggung, Kediri, Jawa Timur",
+            "coordinates": {
+                "lat": -7.76,
+                "lng": 111.95
+            },
+            "fromCoordinates": {
+                "lat": -7.8164,
+                "lng": 112.0174
+            }
+        }
+    ]
+}

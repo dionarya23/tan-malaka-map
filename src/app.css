@@ -1,0 +1,177 @@
+:root {
+  --ink: #1A1A2E;
+  --ink-light: #2D2D44;
+  --parchment: #F5E6C8;
+  --parchment-dark: #E8D5B0;
+  --blood-red: #8B1A1A;
+  --blood-red-light: #A62E2E;
+  --copper: #B87333;
+  --copper-light: #D4944A;
+  --sepia: #704214;
+  --sepia-light: #8B5E3C;
+  --ocean: #2C5F7C;
+  --ocean-light: #3A7CA5;
+  --forest: #2D5A27;
+  --forest-light: #3D7A36;
+  --gold: #C5A55A;
+  --gold-dim: #A68B3E;
+  --muted: #8C7B6B;
+  --muted-light: #A69B8C;
+  --panel-bg: rgba(26, 26, 46, 0.92);
+  --panel-border: rgba(197, 165, 90, 0.25);
+  --panel-glow: rgba(197, 165, 90, 0.08);
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Source Serif 4', 'Georgia', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: var(--font-body);
+  background: var(--ink);
+  color: var(--parchment);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gold-dim);
+  border-radius: 4px;
+}
+
+.leaflet-container {
+  background: #0D0D1A !important;
+  font-family: var(--font-body) !important;
+}
+
+.leaflet-control-zoom {
+  border: 1px solid var(--panel-border) !important;
+  border-radius: 8px !important;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+}
+
+.leaflet-control-zoom a {
+  background: var(--panel-bg) !important;
+  color: var(--gold) !important;
+  border-bottom: 1px solid var(--panel-border) !important;
+  width: 34px !important;
+  height: 34px !important;
+  line-height: 34px !important;
+  font-size: 16px !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: rgba(197, 165, 90, 0.15) !important;
+}
+
+.cat-birth {
+  --cat-color: var(--gold);
+}
+
+.cat-education {
+  --cat-color: var(--ocean);
+}
+
+.cat-activism {
+  --cat-color: var(--blood-red);
+}
+
+.cat-exile {
+  --cat-color: var(--copper);
+}
+
+.cat-international {
+  --cat-color: var(--ocean-light);
+}
+
+.cat-imprisonment {
+  --cat-color: #6B3A5D;
+}
+
+.cat-revolution {
+  --cat-color: var(--blood-red-light);
+}
+
+.cat-death {
+  --cat-color: #4A4A4A;
+}
+
+@keyframes pulseMarker {
+
+  0%,
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translate(-50%, -50%) scale(1.6);
+    opacity: 0.4;
+  }
+}
+
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes borderGlow {
+
+  0%,
+  100% {
+    border-color: rgba(197, 165, 90, 0.2);
+  }
+
+  50% {
+    border-color: rgba(197, 165, 90, 0.5);
+  }
+}
