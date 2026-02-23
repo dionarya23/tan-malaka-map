@@ -3,7 +3,7 @@ import { writable, derived } from 'svelte/store';
 export const events = writable([]);
 export const currentEventIndex = writable(0);
 export const isPlaying = writable(false);
-export const playbackSpeed = writable(2000);
+export const playbackSpeed = writable(4000);
 export const showEventPanel = writable(true);
 
 export const currentEvent = derived(

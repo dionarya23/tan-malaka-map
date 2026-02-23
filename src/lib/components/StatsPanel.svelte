@@ -54,8 +54,14 @@
     }
 </script>
 
-<div class="stats-trigger" on:mouseenter={() => (visible = true)}>
-    <button class="stats-icon-btn" on:click={toggle} title="Statistik">
+<div class="top-right-btns">
+    <a
+        class="github-btn"
+        href="https://github.com/dionarya23/tan-malaka-map"
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Open Source di GitHub"
+    >
         <svg
             width="18"
             height="18"
@@ -64,10 +70,25 @@
             opacity="0.7"
         >
             <path
-                d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"
+                d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"
             />
         </svg>
-    </button>
+    </a>
+    <div class="stats-trigger" on:mouseenter={() => (visible = true)}>
+        <button class="stats-icon-btn" on:click={toggle} title="Statistik">
+            <svg
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                opacity="0.7"
+            >
+                <path
+                    d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"
+                />
+            </svg>
+        </button>
+    </div>
 </div>
 
 {#if visible}
@@ -110,11 +131,35 @@
 {/if}
 
 <style>
-    .stats-trigger {
+    .top-right-btns {
         position: absolute;
         top: 20px;
         right: 20px;
         z-index: 1000;
+        display: flex;
+        gap: 8px;
+        align-items: center;
+    }
+
+    .github-btn {
+        width: 38px;
+        height: 38px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--panel-bg);
+        border: 1px solid var(--panel-border);
+        border-radius: 10px;
+        color: var(--gold);
+        transition: all 0.2s;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+        text-decoration: none;
+    }
+
+    .github-btn:hover {
+        background: rgba(197, 165, 90, 0.15);
+        transform: scale(1.05);
+        color: var(--parchment);
     }
 
     .stats-icon-btn {

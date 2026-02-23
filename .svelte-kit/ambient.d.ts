@@ -46,7 +46,6 @@ declare module '$env/static/private' {
 	export const GNOME_SHELL_SESSION_MODE: string;
 	export const HOMEBREW_PREFIX: string;
 	export const GTK_MODULES: string;
-	export const PAGER: string;
 	export const VSCODE_GIT_ASKPASS_MAIN: string;
 	export const VSCODE_GIT_ASKPASS_NODE: string;
 	export const MANAGERPID: string;
@@ -58,7 +57,6 @@ declare module '$env/static/private' {
 	export const GSM_SKIP_SSH_AGENT_WORKAROUND: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
 	export const COLORTERM: string;
-	export const ANTIGRAVITY_AGENT: string;
 	export const COLOR: string;
 	export const NVM_DIR: string;
 	export const DEBUGINFOD_URLS: string;
@@ -175,7 +173,6 @@ declare module '$env/dynamic/private' {
 		GNOME_SHELL_SESSION_MODE: string;
 		HOMEBREW_PREFIX: string;
 		GTK_MODULES: string;
-		PAGER: string;
 		VSCODE_GIT_ASKPASS_MAIN: string;
 		VSCODE_GIT_ASKPASS_NODE: string;
 		MANAGERPID: string;
@@ -187,7 +184,6 @@ declare module '$env/dynamic/private' {
 		GSM_SKIP_SSH_AGENT_WORKAROUND: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
 		COLORTERM: string;
-		ANTIGRAVITY_AGENT: string;
 		COLOR: string;
 		NVM_DIR: string;
 		DEBUGINFOD_URLS: string;
